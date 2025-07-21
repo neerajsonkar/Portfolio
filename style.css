@@ -1,0 +1,43 @@
+p {
+    color: rgb(255, 255, 255);
+  font-family: "Lexend", sans-serif;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+
+body{background-color: rgb(0, 0, 0);
+color: aliceblue;}
+div{margin-left: 50px;
+    margin-right: 50px;
+    height: 1000px;
+    width: auto;
+text-align: center;}
+img{
+    height: 700px;
+width: 50%;
+    border-radius: 50%;
+}
+h1{  font-family: "Lexend", sans-serif;
+    font-weight: 300;
+}
+.my-name{
+    
+    margin: 0px 200px;
+    font-size: 16px;
+font-weight: 100;}
+.flex{display: flex;
+
+    margin: 0px 0px;
+}
+.bar{
+    height:2px;
+    margin:0px 0px
+}
+.pro{margin-top: 20px ;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+    display: flex;}
+
+    button{font-family: "Lexend", sans-serif;}
